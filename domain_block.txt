@@ -1424,6 +1424,8 @@ event-management.leanplum.com
 event-management-shadow.leanplum.com
 go.leanplum.com
 grade-my-app.leanplum.com
+grafana.prod.leanplum.com
+grafana.staging.leanplum.com
 helpdesk.leanplum.com
 impersonation-preview.leanplum.com
 info.leanplum.com
@@ -4979,6 +4981,7 @@ et.outbrain.com
 eventlog.outbrain.com
 flight-manager.outbrain.com
 gatekeeper.outbrain.com
+grafana.outbrain.com
 hpr.outbrain.com
 images.outbrain.com
 imp.outbrain.com
@@ -5317,6 +5320,7 @@ izooto.com
 app.indoleads.com
 confluence.indoleads.com
 devcname.indoleads.com
+grafana.indoleads.com
 i.indoleads.com
 indoleads.com
 ivan.indoleads.com
