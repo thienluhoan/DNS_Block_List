@@ -20878,3 +20878,5 @@ udc.yahoo.com
 udcm.yahoo.com
 advertising.yahoo.com
 advertising.yandex.ru
+browser.sentry-cdn.com
+app.getsentry.com
