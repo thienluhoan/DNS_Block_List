@@ -20854,3 +20854,4 @@ gcdsdk.appsflyersdk.com
 inapps.appsflyersdk.com
 launches.appsflyersdk.com
 register.appsflyersdk.com
+advertising-api-eu.amazon.com
